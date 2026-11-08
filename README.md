@@ -29,5 +29,8 @@ Other than the above parts, you will also need:
 ### Software 
 You will need to have <a href="https://docs.circuitpython.org/en/latest/README.html">Circuit Python</a> installed. 
 
-##Assembly instructions
+## Assembly instructions
 A full detailed set of instructions will be posted when the project is built (to get pictures).
+
+## Quick Links
+<a href="https://cad.onshape.com/documents/498155ee3d1338c09480fffd/w/4b6f6ad77c90c70c54e2afba/e/de59654b164c33272e9a1a9b?renderMode=0&uiState=6af0d49d5a2e1992e1d22ae4">Onshape Document</a>
