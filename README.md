@@ -1,8 +1,11 @@
-# devpad
+# DevPad
+
+<img width="1445" height="736" alt="Screenshot 2026-11-08 at 2 46 07 PM" src="https://github.com/user-attachments/assets/59372ce0-4a32-4dba-b048-99ec8df0a45d" />
+
 
 ## Description
 
-This Devpad is a macropad designed around softwares I use when I do game development. 
+This Devpad is a macropad designed around softwares I use when I do game development. It is powered by a SEEED Studio Xiao ESP32 C3 and CircuitPython. The software used is displayed on a 0.96 inch OLED display.
 
 
 
@@ -30,6 +33,9 @@ Other than the above parts, you will also need:
 You will need to have <a href="https://docs.circuitpython.org/en/latest/README.html">Circuit Python</a> installed. 
 
 ## Assembly instructions
+
+<img width="1476" height="814" alt="Screenshot 2026-11-08 at 9 43 14 PM" src="https://github.com/user-attachments/assets/0b66dc43-6292-4d77-bb66-29dcf8a393df" />
+
 A full detailed set of instructions will be posted when the project is built (to get pictures).
 
 ## Quick Links
